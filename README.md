@@ -8,5 +8,7 @@
 - 📫 How to reach me: Email.  But after work hours 
 - 😄 Pronouns: she / her  But I don't respond to "Hey Lady!".
 - ⚡ Fun fact: I am an educator; I like to teach logic and science and media and thinking.
+
+- :coffee: Portfolio Site: https://jgreenos.github.io/HW2/index.html
 -->
 
